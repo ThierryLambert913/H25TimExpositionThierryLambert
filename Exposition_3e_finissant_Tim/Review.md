@@ -8,3 +8,6 @@ En plus de cela, la couleur bleu faisait un son proche d'une rivière coulant le
 J'ai remarqué certains effets, par exemple, la couleur jaune a tendance à se faire reconnaitre comme étant la couleur verte. Cela esst dû au fait que les deux couleur sont très proche. Le dispostitif marche grâce à des caméras placés sur les cotés qui identifient les couleurs et leur position, ces infos sont ensuite transféré à un programme qui va alors les affichers sur la télévision. Le programme identifie aussi la quantité d'une certaine couleure, et, en dépendant de la quantité d'une certaine couleur, un son sera rajouter à la mélodie.
 
 La raison pourquoi j'ai décidé d'étudier cette activité à la place des autres est parce que j'ai grandement apprécier l'intéractivité.
+
+Il y avait d'autre activité intéressant, par exemple,
+<img src="media/Toutecran.jpg" width="200">
