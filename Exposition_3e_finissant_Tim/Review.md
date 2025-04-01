@@ -20,5 +20,5 @@ La plante
 <img src="media/Passage.jpg" width="200">
 Le passage
 
-<img src="media/jeux.jpg" width="200"
+<img src="media/jeux.jpg" width="200">
 Et le jeux
