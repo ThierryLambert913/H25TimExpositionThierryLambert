@@ -10,11 +10,15 @@ J'ai remarqué certains effets, par exemple, la couleur jaune a tendance à se f
 La raison pourquoi j'ai décidé d'étudier cette activité à la place des autres est parce que j'ai grandement apprécier l'intéractivité.
 
 Il y avait d'autre activité intéressant, par exemple,
+
 <img src="media/RPG.jpg" width="200">
 Le jeux de table
+
 <img src="media/plante.jpg" width="200">
 La plante
+
 <img src="media/Passage.jpg" width="200">
 Le passage
+
 <img src="media/jeux.jpg" width="200"
 Et le jeux
