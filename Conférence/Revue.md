@@ -1,4 +1,22 @@
-L'atelier de Rafael Lozano Hemmer
+# L'atelier de Rafael Lozano Hemmer
 Durant la conférence, on a été présentée une multitude de projet, un projet que j'aimerais prendre votre attention est celle du Shadow Tuner, une oeuvre qui consistait en un globe géant, sur une ile, qui est capable de détecter la tête des gens, et de jouer toute une chaine radio en dépendent de la position de cette tête.
-Comment ça marche?
-Le globe ne détecte pas les gens, mais la position de leur ombre projété sur celui-ci, ceci est fait grace a des capteurs qui sont placés à l'intérieur, puis, l'information est transféré à la base, qui va alors jouer une transmission de la radio correspondante. les lumières à l'intérieur du globe sont créer grâce à des LED.
+
+## Présentation de l'œuvre
+
+*Shadow Tuner* se présente comme une installation à grande échelle : un **globe lumineux de grande dimension**, situé sur une île à coté de Dubai, qui interagit avec le public non pas par la détection directe de sa présence physique, mais par l'analyse **de l’ombre projetée** sur sa surface. L’approche de Lozano-Hemmer inverse la logique habituelle de captation en privilégiant une forme d’interaction indirecte, et offre ainsi une expérience singulière et symbolique, basée sur la trace et l’absence de lumière.
+
+## Système de détection par ombre
+
+Sur le plan technique, l'installation repose sur un réseau intégré de **capteurs optiques et de lumière** positionnés à l’intérieur du globe. Ces capteurs ont pour rôle de détecter la **position des ombres** – plus spécifiquement **l’ombre de la tête** des visiteurs – projetées sur la surface extérieure du globe. L’analyse de la position se fait en temps réel, grâce à un système de captation lumineuse qui repère les variations d’intensité sur la surface, et en déduit la coordonnée spatiale du point d’obscurcissement.
+
+Cette détection s’appuie sur une matrice dense de **capteurs photosensibles**, disposés selon un maillage régulier, plus particulièrement défini selon le placement des radio les plus populaire. Je pense que la version plus petite possède presque la moitié des radios. Chaque capteur transmet des données numériques à un **processeur central** chargé de cartographier les zones ombragées et d’y associer des instructions spécifiques.
+
+## Conversion des coordonnées en signal sonore
+
+Une fois la position de l’ombre identifiée, le système assigne cette coordonnée à une **fréquence radio** prédéfinie. Le globe fonctionne ainsien traduisant des positions spatiales en fréquences audio. Chaque point de la surface correspond à une station radio différente, rendant l’expérience sonore dynamique et contextuelle. Il s’agit ici d’une logique de **mapping spatial** vers une **base de données sonore**, gérée par un logiciel intégré.
+
+Le signal audio sélectionné est ensuite diffusé dans l’espace ambiant via un système de **haut-parleurs directionnels**, permettant une immersion ciblée, perceptible à proximité immédiate de l’œuvre.
+
+## Technologie d’éclairage LED
+
+La qualité de la détection repose également sur l’intensité lumineuse générée à l’intérieur du globe. Celui-ci est illuminé par un réseau de **LED à haute luminosité**, programmées pour offrir une répartition uniforme de la lumière. Les LED ont une double fonction : elles assurent la visibilité de l’installation, même de nuit, et permettent une **projection nette des ombres**, essentielles au fonctionnement du dispositif de détection.
