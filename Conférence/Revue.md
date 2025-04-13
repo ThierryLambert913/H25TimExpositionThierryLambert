@@ -1,6 +1,8 @@
 # L'atelier de Rafael Lozano Hemmer
 Durant la conférence, on a été présentée une multitude de projet, un projet que j'aimerais prendre votre attention est celle du Shadow Tuner, une oeuvre qui consistait en un globe géant, sur une ile, qui est capable de détecter la tête des gens, et de jouer toute une chaine radio en dépendent de la position de cette tête.
+
 <img src="Photos/shadow_tuner.jpg" width="200">
+
 ## Présentation de l'œuvre
 
 *Shadow Tuner* se présente comme une installation à grande échelle : un **globe lumineux de grande dimension**, situé sur une île à coté de Dubai, qui interagit avec le public non pas par la détection directe de sa présence physique, mais par l'analyse **de l’ombre projetée** sur sa surface. L’approche de Lozano-Hemmer inverse la logique habituelle de captation en privilégiant une forme d’interaction indirecte, et offre ainsi une expérience singulière et symbolique, basée sur la trace et l’absence de lumière.
