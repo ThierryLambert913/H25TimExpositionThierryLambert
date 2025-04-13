@@ -3,7 +3,7 @@ Durant la conférence, on a été présentée une multitude de projet, un projet
 
 <img src="Photos/shadow_tuner.jpg" width="200">
 
-## Présentation de l'œuvre
+## Présentation de l'oeuvre
 
 *Shadow Tuner* se présente comme une installation à grande échelle : un **globe lumineux de grande dimension**, situé sur une île à coté de Dubai, qui interagit avec le public non pas par la détection directe de sa présence physique, mais par l'analyse **de l’ombre projetée** sur sa surface. L’approche de Lozano-Hemmer inverse la logique habituelle de captation en privilégiant une forme d’interaction indirecte, et offre ainsi une expérience singulière et symbolique, basée sur la trace et l’absence de lumière.
 
@@ -17,10 +17,10 @@ Cette détection s’appuie sur une matrice dense de **capteurs photosensibles**
 
 ## Conversion des coordonnées en signal sonore
 
-Une fois la position de l’ombre identifiée, le système assigne cette coordonnée à une **fréquence radio** prédéfinie. Le globe fonctionne ainsien traduisant des positions spatiales en fréquences audio. Chaque point de la surface correspond à une station radio différente, rendant l’expérience sonore dynamique et contextuelle. Il s’agit ici d’une logique de **mapping spatial** vers une **base de données sonore**, gérée par un logiciel intégré.
+Une fois la position de l’ombre identifiée, le système assigne cette coordonnee à une **fréquence radio** prédéfinie. Le globe fonctionne ainsien traduisant des positions spatiales en fréquences audio. Chaque point de la surface correspond à une station radio différente, rendant l’expérience sonore dynamique et contextuelle. Il s’agit ici d’une logique de **mapping spatial** vers une **base de données sonore**, gérée par un logiciel intégré.
 
-Le signal audio sélectionné est ensuite diffusé dans l’espace ambiant via un système de **haut-parleurs directionnels**, permettant une immersion ciblée, perceptible à proximité immédiate de l’œuvre.
+Le signal audio sélectionné est ensuite diffusé dans l’espace ambiant via un système de **haut-parleurs directionnels**, permettant une immersion ciblée, perceptible à proximité immédiate de l’oeuvre.
 
 ## Technologie d’éclairage LED
 
-La qualité de la détection repose également sur l’intensité lumineuse générée à l’intérieur du globe. Celui-ci est illuminé par un réseau de **LED à haute luminosité**, programmées pour offrir une répartition uniforme de la lumière. Les LED ont une double fonction : elles assurent la visibilité de l’installation, même de nuit, et permettent une **projection nette des ombres**, essentielles au fonctionnement du dispositif de détection.
+La qualitée de la détection repose également sur la lumière générée à l’intérieur du globe, celui-ci est illuminé par un réseau de **LED**, programmées pour offrir une répartition uniforme de la lumière. Les LED assurent la visibilité de l’installation, même de nuit, et permettent une **projection nette des ombres**, essentielles au fonctionnement du dispositif de détection.
