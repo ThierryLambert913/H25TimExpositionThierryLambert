@@ -13,6 +13,8 @@ Sur le plan technique, l'installation repose sur un réseau intégré de **capte
 
 Cette détection s’appuie sur une matrice dense de **capteurs photosensibles**, disposés selon un maillage régulier, plus particulièrement défini selon le placement des radio les plus populaire. Je pense que la version plus petite possède presque la moitié des radios. Chaque capteur transmet des données numériques à un **processeur central** chargé de cartographier les zones ombragées et d’y associer des instructions spécifiques.
 
+<img src="Photos/shadow_tuner_montreal_2025_rlh_004_t.jpg" width="200">
+
 ## Conversion des coordonnées en signal sonore
 
 Une fois la position de l’ombre identifiée, le système assigne cette coordonnée à une **fréquence radio** prédéfinie. Le globe fonctionne ainsien traduisant des positions spatiales en fréquences audio. Chaque point de la surface correspond à une station radio différente, rendant l’expérience sonore dynamique et contextuelle. Il s’agit ici d’une logique de **mapping spatial** vers une **base de données sonore**, gérée par un logiciel intégré.
